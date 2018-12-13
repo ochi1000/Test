@@ -1,0 +1,19 @@
+{
+    "name": "user/student-app",
+    "description": "STudent App",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ochmoney",
+            "email": "chukajide@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "":"src"
+        }
+    },
+    
+    "require": {}
+    
+}
